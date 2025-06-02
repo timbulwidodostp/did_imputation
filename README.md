@@ -1,6 +1,8 @@
 # did_imputation
 Borusyak, Jaravel, and Spiess (2021) Estimator Use did_imputation (didimputation) With R Software
 
+https://www.youtube.com/watch?v=EipZpywrlhM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
